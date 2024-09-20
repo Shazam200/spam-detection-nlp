@@ -2,9 +2,7 @@
 <h1 align="center">Email Spam Detection</h1>
 
 <!-- HEADER -->
-<p align="center">
-  <img src="Images/Email_Spam_Detection_Cover.png"/>
-</p>
+ 
 
 <!-- PROJECT DESCRIPTION -->
 ## <br>**➲ Project description**
@@ -49,7 +47,7 @@ The dataset is ready for training, so we create a naive classifier using scikit-
 ## ➲ Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/omaarelsherif/Email-Spam-Detection-Using-Machine-Learning.git
+   git clone https://github.com/Shazam200/spam-detection-nlp.git
    ```
 2. Open 'main.ipynb' in Google Colab or VScode and enjoy
 
